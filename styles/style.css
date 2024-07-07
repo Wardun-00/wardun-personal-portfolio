@@ -21,7 +21,8 @@
     padding:18px 20px;
     border-radius:8px;
     font-size:20px;
-    border: none;
+    border: 1px solid black;
+    box-shadow: 1px 2px 3px 2px black;
 
 }
 
